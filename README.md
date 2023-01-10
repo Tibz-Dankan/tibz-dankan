@@ -19,7 +19,7 @@ Meet Dankan, a fullstack developer based in Uganda with expertise in ReactJS and
 <br />
 
 <br/>
-- 🌱 I’m currently learning flutter and deep learning
+- 🌱 I’m currently learning  distributed systems
 <br/>
 - 💬 Ask me about anything
 <br/>
