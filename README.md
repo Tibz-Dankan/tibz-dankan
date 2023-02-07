@@ -2,7 +2,7 @@
 
 👋 Hi there,
 
-Meet Dankan, a fullstack developer based in Uganda with expertise in ReactJS and NodeJS. Always looking to push the boundaries and learn more, am currently diving into the world of distributed systems.
+I'm Dankan, a fullstack developer based in Uganda with expertise in ReactJS and NodeJS. Always looking to push the boundaries and learn more, am currently diving into the world of distributed systems.
 
 ---
 
