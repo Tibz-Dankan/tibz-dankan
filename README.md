@@ -43,7 +43,7 @@ I'm Dankan, a fullstack developer based in Uganda with expertise in ReactJS and 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tibz-Dankan&show_icons=true)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tibz-Dankan) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tibesigwadankan) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/TibzDankan)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tibz-Dankan) [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tibesigwadankan) [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg' alt='twitter' height='40'>](https://twitter.com/TibzDankan)
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/isaacmmarvin/) -->
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13431716) -->
